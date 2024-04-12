@@ -12,10 +12,11 @@ This repository contains several data files that may be useful for analysis or m
 
 5. **final_train.csv**: This CSV file is intended for use as a training set in machine learning tasks. It contains the final set of features and labels for training models.
 
-6. **rx_skills.csv**: This CSV file contains data related to sales.
+6. **rx_skills.csv**: This CSV file contains data related to skills required for sales.
 
 7. **sample.csv**: This CSV file contains a small sample of output that this project would generate.
-8. **xgboost.pkl**: This file contains the model
+   
+8. **xgboost.pkl**: This file contains the model trained on the data given during the hackathon.
 
 Feel free to explore these files further and utilize them for your projects. If you have any questions or need additional information, please don't hesitate to contact us.
 
