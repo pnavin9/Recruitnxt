@@ -1,0 +1,407 @@
+,skill_name
+0,energy
+1,microsoft power bi
+2,wireless
+3,transportation
+4,saas
+5,fragrance
+6,key account management
+7,wealth management
+8,talent acquisition
+9,disability insurance
+10,process engineering
+11,databases
+12,direct sales
+13,wine tasting
+14,3pl
+15,air conditioning
+16,healthcare management
+17,series 63
+18,flights
+19,computer hardware
+20,cisco technologies
+21,investors
+22,solution selling
+23,hospitality industry
+24,negotiation
+25,medical sales
+26,commercial banking
+27,accounting
+28,social media marketing
+29,management
+30,microsoft sql server
+31,government
+32,series 7
+33,additives
+34,agriculture
+35,equity research
+36,pre sales
+37,powerpoint
+38,data modeling
+39,product development
+40,construction
+41,capital equipment
+42,farms
+43,auditing
+44,building materials
+45,neurology
+46,it recruitment
+47,front office
+48,salesforce.com administration
+49,income tax
+50,educational technology
+51,makeovers
+52,cosmetics
+53,process improvement
+54,employee relations
+55,forecasting
+56,export
+57,fha
+58,general insurance
+59,beverage industry
+60,finance
+61,pharmaceutical sales
+62,technical recruiting
+63,bloomberg
+64,marketing
+65,ip
+66,recruiting
+67,surveillance
+68,time management
+69,airline reservations
+70,machine tools
+71,event management
+72,automotive sales
+73,outlook
+74,interior design
+75,market development
+76,ssrs
+77,cashiering
+78,sql
+79,engineering
+80,hvac controls
+81,employee benefits
+82,furnishings
+83,deputy clerk
+84,editing
+85,sales
+86,machining
+87,applicant tracking systems
+88,ethernet
+89,retirement planning
+90,property management systems
+91,business intelligence
+92,makeup artistry
+93,research
+94,corporate security
+95,pricing
+96,mortgage lending
+97,contract recruitment
+98,cctv
+99,mortgage banking
+100,chemistry
+101,sales effectiveness
+102,retail sales
+103,active directory
+104,teamwork
+105,sql server integration services
+106,marketing communications
+107,investments
+108,project management
+109,international sales
+110,apex data loader
+111,asset protection
+112,emr
+113,logistics management
+114,receptionist duties
+115,email marketing
+116,condos
+117,casualty
+118,hospitality
+119,enterprise software
+120,biotechnology
+121,public speaking
+122,ltl
+123,single family homes
+124,health insurance
+125,financial services
+126,b2b
+127,retail banking
+128,benefits negotiation
+129,data warehousing
+130,contract management
+131,loss prevention
+132,jewelry
+133,fashion
+134,rendering
+135,apex programming
+136,microsoft word
+137,credit analysis
+138,materials management
+139,cabinetry
+140,troubleshooting
+141,physical security
+142,public relations
+143,loan origination
+144,transportation management
+145,international logistics
+146,space planning
+147,internal investigations
+148,energy efficiency
+149,lighting
+150,underwriting
+151,screening resumes
+152,chemical engineering
+153,airlines
+154,hospital sales
+155,life sciences
+156,financial reporting
+157,cross functional team leadership
+158,new home sales
+159,analysis
+160,fixed annuities
+161,sql server reporting services
+162,security operations
+163,hedge funds
+164,professional liability
+165,customer relations
+166,oncology
+167,tax
+168,contractors
+169,real estate
+170,data center
+171,foreclosures
+172,customer experience
+173,java
+174,agronomy
+175,hospitality management
+176,matlab
+177,benefits administration
+178,hospitals
+179,manufacturing
+180,glamour
+181,pharmaceutical industry
+182,gift baskets
+183,business analysis
+184,co location
+185,e learning
+186,corporate tax
+187,residential mortgages
+188,automotive aftermarket
+189,customer retention
+190,food and beverage
+191,fleet management
+192,mutual funds
+193,trading
+194,yield management
+195,consumer products
+196,logistics
+197,leases
+198,html
+199,banquets
+200,credit
+201,strategic planning
+202,data entry
+203,electronics
+204,process scheduler
+205,store management
+206,casualty insurance
+207,hvac
+208,market research
+209,human resources
+210,relocation
+211,new business development
+212,manufacturing engineering
+213,umbrella insurance
+214,legal liability
+215,property management
+216,driving results
+217,resorts
+218,teaching
+219,charter
+220,sales operations
+221,inventory control
+222,flooring
+223,networking
+224,javascript
+225,food
+226,cardiology
+227,oracle e business suite
+228,medical terminology
+229,lean manufacturing
+230,alcoholic beverages
+231,banking
+232,phone etiquette
+233,floor plans
+234,data analysis
+235,event planning
+236,skin care
+237,liability
+238,big box
+239,cloud computing
+240,commercial real estate
+241,visual merchandising
+242,team building
+243,sabre
+244,customer service
+245,advertising sales
+246,budgets
+247,health savings accounts
+248,apparel
+249,online advertising
+250,sales management
+251,coaching hospitalized veterans in substance abuse
+252,c++
+253,commissioning
+254,financial modeling
+255,architectural lighting
+256,contract negotiation
+257,digital media
+258,consumer lending
+259,cnc
+260,crop protection
+261,hotels
+262,security management
+263,requirements analysis
+264,mpls
+265,disaster recovery
+266,carpet
+267,operations management
+268,real estate transactions
+269,strategy
+270,crm
+271,managed care
+272,emergency management
+273,medicare
+274,healthcare information technology
+275,healthcare
+276,screening
+277,telecommunications
+278,marketing strategy
+279,customer relationship management
+280,microsoft excel
+281,blogging
+282,microsoft office
+283,internet recruiting
+284,portfolio management
+285,social media
+286,life insurance
+287,integration
+288,merchandising
+289,medicaid
+290,residential homes
+291,freight
+292,strategic partnerships
+293,term life insurance
+294,inventory management
+295,first time home buyers
+296,loans
+297,hipaa
+298,c#
+299,derivatives
+300,wine
+301,diabetes
+302,access control
+303,ehr
+304,accounts receivable
+305,clinical research
+306,product launch
+307,insurance
+308,purchasing
+309,fixed income
+310,air freight
+311,commercial insurance
+312,retail
+313,training
+314,operating room
+315,enterprise architecture
+316,community outreach
+317,financial accounting
+318,business strategy
+319,revenue cycle
+320,international and domestic shipping
+321,disposables
+322,salesforce.com
+323,salesforce.com development
+324,short sales
+325,hematology
+326,truckload
+327,leadership
+328,digital marketing
+329,coaching
+330,bonds
+331,listings
+332,airports
+333,business planning
+334,asset management
+335,medical devices
+336,call centers
+337,corporate events
+338,security
+339,account management
+340,parts
+341,automobile
+342,aviation
+343,brokers
+344,media relations
+345,microsoft powerpoint
+346,alarm systems
+347,curriculum development
+348,sellers
+349,autocad
+350,project estimation
+351,channel partners
+352,business process
+353,sourcing
+354,agile methodologies
+355,construction management
+356,beauty industry
+357,endocrinology
+358,business development
+359,cold calling
+360,aircraft
+361,account reconciliation
+362,financial analysis
+363,automotive
+364,capital markets
+365,furniture
+366,agribusiness
+367,commercial aviation
+368,freight forwarding
+369,workers compensation
+370,continuous improvement
+371,gifts
+372,equities
+373,coatings
+374,buyer representation
+375,surgeons
+376,managed services
+377,communication
+378,heating
+379,facebook
+380,ssis
+381,medical billing
+382,revenue analysis
+383,
+384,integrated marketing
+385,customer satisfaction
+386,catering
+387,securities
+388,etl
+389,mobile devices
+390,lighting control
+391,lighting design
+392,sales process
+393,interior architecture
+394,hotel management
+395,it strategy
+396,accounts payable
+397,advertising
+398,investment properties
+399,electricians
+400,key account development
+401,curriculum design
+402,property and casualty insurance
+403,team leadership
+404,commercial lines
+405,vehicles
