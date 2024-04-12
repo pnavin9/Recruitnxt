@@ -74,6 +74,8 @@ Identifying areas for further improvement and refinement in the recruitment proc
     - Replace `<folder containing resumes>` with the path to the folder containing candidate resumes.
     - This command makes predictions using the trained model. Set the last argument to `False` for inference/prediction.
 
+Note: You might need to change some paths because some of the required files are present in DataScource
+
 ## Dependencies
 
 - Python 3.x
