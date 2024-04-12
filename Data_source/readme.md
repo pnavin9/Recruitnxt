@@ -21,5 +21,3 @@ This repository contains several data files that may be useful for analysis or m
 Feel free to explore these files further and utilize them for your projects. If you have any questions or need additional information, please don't hesitate to contact us.
 
 --- 
-
-Feel free to adjust or expand upon this README as needed for your specific use case!
