@@ -14,7 +14,8 @@ This repository contains several data files that may be useful for analysis or m
 
 6. **rx_skills.csv**: This CSV file contains data related to sales.
 
-7. **sample.csv**: This CSV file contains a small sample of data from the larger datasets. It may be useful for quick exploration or testing scripts.
+7. **sample.csv**: This CSV file contains a small sample of output that this project would generate.
+8. **xgboost.pkl**: This file contains the model
 
 Feel free to explore these files further and utilize them for your projects. If you have any questions or need additional information, please don't hesitate to contact us.
 
