@@ -1,0 +1,10 @@
+pandas
+getopt
+chardet
+geopy
+indiapins
+tqdm
+re
+googlesearch-python
+xgboost==1.4.0
+optuna
