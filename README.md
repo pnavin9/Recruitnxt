@@ -76,18 +76,6 @@ Identifying areas for further improvement and refinement in the recruitment proc
 
 Note: You might need to change some paths because some of the required files are present in DataScource
 
-## Dependencies
-
-- Python 3.x
-- pandas
-- scikit-learn
-- XGBoost
-- chardet
-- docx
-- getopt
-- pickle
-- numpy
-
 ## Further Information
 
 For more details on the project and its implementation, refer to the source code files and accompanying documentation.
